@@ -5,7 +5,7 @@
 
 #challengeonedecodificador4
 
-![Screenshot](/img/Tela.jpg)
+![image](/img/Tela.JPG))
 
 ## 📝 Descrição
 
